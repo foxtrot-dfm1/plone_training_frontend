@@ -1,4 +1,6 @@
-Frontend for plone6 training(https://training.plone.org/5/mastering-plone/index.html)\
+Frontend for plone6 training(https://training.plone.org/5/mastering-plone/index.html)
+==========
+
 Includes all chapters up to 41.1, exclude 37,38,39,40
 ==========
 
